@@ -57,3 +57,15 @@ props는 하다보니 대강 알아서 괜춘할듯?
 ```
 github.com/joshua1988/vue-advanced # 강의코 깃헙 레포
 ```
+
+플러그인? @vue/cli-plugin-typescript
+
+`vue add typescripte`
+
+js->ts 변경시 문제점
+
+App.vue나 main.ts 가 변경시 덮어씌어지면서 코드가 수정될수있음
+
+버전에 따라 라이브러리 호환성이 다를수있음
+
+`그래서 상황따라 플러그인 자제??`
