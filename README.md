@@ -19,3 +19,17 @@ https://nodejs.org/api/buffer.html#bufreadfloatbeoffset
 ```
 https://www.typescriptlang.org/docs/handbook/2/classes.html
 ```
+
+# TypeError: Cannot read properties of undefined (reading 'startDate')
+
+```
+https://velog.io/@soor/TypeError-Cannot-read-properties-of-undefined-reading-startDate
+```
+
+
+
+# vue-TypeScript 에서 vue 파일 import 못함
+
+```
+
+```
