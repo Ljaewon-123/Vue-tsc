@@ -1,4 +1,4 @@
-# Vuex?
+# Vuex?  X 이거 안씀 Pinia
 
 vue.js 앱에서 사용 가능한 `상태 관리 라이브러리`
 
@@ -216,3 +216,5 @@ export const useStore = defineStore('main', {
 이렇게 `defineStore`의 첫번째 인수로는 고유한 이름을 주어야 하고 안에 각 속성들을 정의할수있다 
 
 기존 **Vuex**와 같이 `import`해서 사용하거나 template에서도 사용가능하다.
+
+pinia는 () => {} 화살표 함수 안써짐
